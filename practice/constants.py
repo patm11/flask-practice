@@ -1,0 +1,11 @@
+JSON_HIGH_SCORE_FIELD = "highScore"
+JSON_PLAYER_NAME_FIELD = "playerName"
+JSON_GAME_NAME_FIELD = "gameName"
+
+JSON_REQD_IN_REQUEST = "Request must have the Content-Type: application/json header"
+JSON_HIGH_SCORE_REQD_MESSAGE = "JSON must contain a highScore field"
+JSON_INVALID_HIGH_SCORE_MESSAGE = "highScore must be a number"
+JSON_PLAYER_NAME_REQD_MESSAGE = "JSON must contain a playerName field"
+JSON_INVALID_PLAYER_NAME_MESSAGE = "playerName must not contain invalid characters"
+JSON_GAME_NAME_REQD_MESSAGE = "JSON must contain a gameName field"
+JSON_INVALID_GAME_NAME_MESSAGE = "gameName must not contain invalid characters"
